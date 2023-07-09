@@ -1,0 +1,39 @@
+.frame-1, .frame-1 * { box-sizing: border-box; }.frame-1 {background: #da4e4e; width: 100%; height: 890px; position: relative;}
+ .shape-with-text {background: #000000; border-radius: 3px; width: 37.82px; height: 2.91px; position: absolute; left: 836px;top: 48px; transform-origin: 0 0; transform: rotate(0deg) scale(1, -1);}
+ .vector {position: absolute; left: 350px;top: 415.7px; transform: translate(0px, -60.78px); overflow: visible;}
+ .vector0 {position: absolute; left: 350px;top: 515.7px; transform: translate(0px, -60.78px); overflow: visible;}
+ .vector1 {position: absolute; left: 340px;top: 87.75px; transform: translate(0px, -87.75px); overflow: visible;}
+ .shape-with-text2 {background: #ffffff; border-radius: 22.11px; width: 447.23px; height: 55.27px; position: absolute; left: 353px;top: 414.27px; transform-origin: 0 0; transform: rotate(0deg) scale(1, -1);}
+ .vector2 {position: absolute; left: 806px;top: 414.18px; transform: translate(0px, -57.74px); overflow: visible;}
+ .vector3 {position: absolute; left: 801.71px;top: 415.7px; transform: translate(0px, -60.78px); overflow: visible;}
+ .food-1-1 {width: 100%; height: 100%; position: absolute; left: 0px;top: 699px;}
+ .food-quest-is-your-ultimate-diet-app-for-weight-management-meal-plans-calorie-count-and-restaurant-suggestions-use-the-search-bar-below-to-find-your-favorite-meals-and-restaurants {color: #000000; text-align: center; font: 400 24px/150% 'Jockey One', sans-serif; position: absolute; left: 350px;top: 197px; width: 572px; height: 233px;}
+ .welcome-to-food-quest {color: #000000; text-align: center; font: 400 40px/150% 'Jockey One', sans-serif; position: absolute; left: 360px;top: 123px; width: 547px; height: 121px;}
+ .food-quest {color: #000000; text-align: center; font: 400 30px/150% 'Jockey One', sans-serif; text-decoration: underline; position: absolute; left: 300px;top: 20px; width: 333px; height: 68px;}
+ .search-for-meals-or-restaurants {text-align: center; font: 400 28px/150% 'JejuGothic', sans-serif; position: absolute; left: 370px;top: 367px; width: 414px; height: 47px;}
+ .search {color: rgba(0, 0, 0, 0.53); text-align: center; font: 400 14px/150% 'JejuGothic', sans-serif; position: absolute; left: 800px;top: 352px; width: 106px; height: 46px;}
+ .question {border-radius: 22.11px; width: 447.23px; height: 55.27px; position: absolute; left: 353px;top: 468px;}
+ .answer {border-radius: 22.11px; width: 447.23px; height: 55.27px; position: absolute; left: 353px;top: 668px;}
+  
+input[type=button], input[type=submit], input[type=reset]{
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  left: 353px;
+}
+
+button {
+  background-color: yellowgreen;
+  border: none;
+  color: white;
+  padding: 23px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  left: 353px;
+}
+

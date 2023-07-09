@@ -1,0 +1,43 @@
+.frame-3, .frame-3 * { box-sizing: border-box; }.frame-3 {width: 100%; height: 1058px; position: relative;}
+ .rectangle-2 {background: #ff5757; width: 100%; height: 100%; position: absolute; left: 0px;top: 0px;}
+ .shape-with-text {background: #fd6363; border-radius: 80px; width: 534px; height: 709px; position: absolute; left: 62px;top: 1012px; transform-origin: 0 0; transform: rotate(0deg) scale(1, -1);}
+ .vector {position: absolute; left: 61.09px;top: 1007.24px; transform: translate(0px, -706.66px); overflow: visible;}
+ .vector2 {position: absolute; left: 86.06px;top: 367.51px; transform: translate(0px, -20.3px); overflow: visible;}
+ .vector3 {position: absolute; left: 86.06px;top: 612.17px; transform: translate(0px, -20.57px); overflow: visible;}
+ .vector4 {position: absolute; left: 86.06px;top: 856.84px; transform: translate(0px, -20.57px); overflow: visible;}
+ .rectangle-40 {background: #ffffff; width: 516px; height: 168px; position: absolute; left: 71px;top: 394px;}
+ .rectangle-41 {background: #ffffff; width: 516px; height: 168px; position: absolute; left: 71px;top: 632px;}
+ .rectangle-42 {background: #ffffff; width: 516px; height: 127px; position: absolute; left: 71px;top: 873px;}
+ .vector5 {position: absolute; left: 81.13px;top: 545.81px; transform: translate(0px, -127.69px); overflow: visible;}
+ .vector6 {position: absolute; left: 80.73px;top: 780.7px; transform: translate(0px, -132.4px); overflow: visible;}
+ .vector7 {position: absolute; left: 94.14px;top: 991.93px; transform: translate(0px, -99.15px); overflow: visible;}
+ .text {color: #000000; text-align: left; font: 400 12px 'Inter', sans-serif; position: absolute; left: 497px;top: 727px;}
+ .vector8 {position: absolute; left: 62px;top: 96.11px; transform: translate(0px, -32.11px); overflow: visible;}
+ .shape-with-text2 {background: #ffffff; border-radius: 22px; width: 435px; height: 55px; position: absolute; left: 61px;top: 161px; transform-origin: 0 0; transform: rotate(0deg) scale(1, -1);}
+ .vector9 {position: absolute; left: 68.52px;top: 139.27px; transform: translate(0px, -17.93px); overflow: visible;}
+ .vector10 {position: absolute; left: 501px;top: 167px; transform: translate(0px, -66px); overflow: visible;}
+ .vector11 {position: absolute; left: 528.17px;top: 141.37px; transform: translate(0px, -16.29px); overflow: visible;}
+ .vector12 {position: absolute; left: 128.2px;top: 207.66px; transform: translate(0px, -16.56px); overflow: visible;}
+ .vector13 {position: absolute; left: 502px;top: 164px; transform: translate(0px, -60px); overflow: visible;}
+ .search {color: #000000; text-align: left; font: 400 14px 'JejuGothic', sans-serif; position: absolute; left: 500px;top: 99px;}
+ .vector14 {position: absolute; left: 128.2px;top: 248.9px; transform: translate(0px, -20.98px); overflow: visible;}
+ .vector15 {position: absolute; left: 94.14px;top: 289.9px; transform: translate(0px, -23.16px); overflow: visible;}
+ .vector16 {position: absolute; left: 94.14px;top: 289.81px; transform: translate(0px, -26.06px); overflow: visible;}
+ .vector17 {position: absolute; left: 97.15px;top: 250.09px; transform: translate(0px, -23.16px); overflow: visible;}
+ .vector18 {position: absolute; left: 94.14px;top: 214.26px; transform: translate(0px, -23.16px); overflow: visible;}
+ .vector19 {position: absolute; left: 128.2px;top: 289.46px; transform: translate(0px, -20.73px); overflow: visible;}
+ .vector20 {position: absolute; left: 94.14px;top: 214.17px; transform: translate(0px, -26.06px); overflow: visible;}
+ .vector21 {position: absolute; left: 94.14px;top: 249px; transform: translate(0px, -26.06px); overflow: visible;}
+ .vector22 {position: absolute; left: 56px;top: 167px; transform: translate(0px, -66px); overflow: visible;}
+
+ button {
+    background-color: yellowgreen;
+    border: none;
+    color: white;
+    padding: 23px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    left: 353px;
+  }
+  
